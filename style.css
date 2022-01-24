@@ -75,6 +75,7 @@ input[type=text], select, textarea {
   }
   input[type=radio]{
       /* padding: 12px; */
+      margin-left: 10px;
       margin-top: 6px;
       margin-bottom: 16px;
   }
